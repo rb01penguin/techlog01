@@ -56,6 +56,7 @@ group :development, :test do
   gem 'debug', platforms: %i[mri mingw x64_mingw]
   gem 'factory_bot_rails' # 追加
   gem 'rspec-rails' # 追加
+  gem "foreman"
 end
 
 group :development do

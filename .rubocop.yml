@@ -85,5 +85,5 @@ Naming/MethodParameterName:
   MinNameLength: 1
 
 # 改行コードがデフォルトと違う：OS違いでおこったりする
-Style/EndOfLine: 
-  EnforcedStyle: lf
+#Style/EndOfLine: 
+ # EnforcedStyle: lf
